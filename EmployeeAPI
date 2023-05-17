@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstName": "Leslie",
+        "lastName": "Andrews",
+        "email": "leslie@luv2code.com"
+    },
+    {
+        "id": 2,
+        "firstName": "Emma",
+        "lastName": "Baumgarten",
+        "email": "emma@luv2code.com"
+    },
+    {
+        "id": 3,
+        "firstName": "Avani",
+        "lastName": "Gupta",
+        "email": "avani@luv2code.com"
+    },
+    {
+        "id": 4,
+        "firstName": "Yuri",
+        "lastName": "Petrov",
+        "email": "yuri@luv2code.com"
+    },
+    {
+        "id": 5,
+        "firstName": "Juan",
+        "lastName": "Vega",
+        "email": "juan@luv2code.com"
+    }
+]
